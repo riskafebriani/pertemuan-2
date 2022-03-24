@@ -11,4 +11,4 @@ fun main(args: Array<String>) {
     } else
         println("I can't calculate the square root of a negative number!")
     println("Thanks for the input")
-}3
+}
